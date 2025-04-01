@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+body{
+  background-image: url("https://assets.onecompiler.app/42sryw8q2/42sryuhsc/Brown%20Simple%20Aesthetic%20Desktop%20Wallpaper%20(2).png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#head{
+  background-color: #af8264;
+  border-radius: 50% 50% / 50% 50% ;
+  margin-right:20%;
+  margin-left: 20%;
+  
+
+  
+  
+}
+h1{
+  font-family: 'Bubblegum Sans';
+  font-weight: bold;
+  text-align: center;
+  font-size: 50px;;
+  
+
+}
+h2{
+  font-family: cursive;
+ 
+  text-align: center;
+
+}
+h1 {
+  margin-bottom: 5px; 
+}
+h2 {
+  margin-top: 5px;
+}
+
+#para{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 30px;
+  color:#614633;
+  text-align: center;
+  font-weight: bold;
+  margin-right: 1.5%;
+
+}
+#field{
+  font-size: 20px;
+  border-radius: 20px; 
+  padding: 10px;
+  width: 250px;
+  background-color: #e5bb9d;
+  color:#000000;
+  text-align: center;
+  
+}
+#field::placeholder{
+  color:#3b3734;
+}
+
+#put{
+   font-size: 28px;
+   width: 40px; 
+   height: 40px;
+  border-radius: 50%;
+  text-align: center;
+  
+}
+#put:hover{
+  background-color: #ebd29c;
+  color:#614633;
+}
+ul{
+margin-right:3.5%;
+font-size: 25px;
+list-style-type:none;
+font-family: cursive;
+color:#513c2d;
+text-align: center;
+margin-left: 35%;
+}
+
+#rem{
+  font-size: 20px;
+  margin:0 3px;
+  border-radius: 5px;
+  cursor:pointer;
+}
+#rem:hover{
+  background-color: #ebd29c;
+  color:#614633;
+
+}
+#push{
+  display: flex;
+  gap: 5px;
+}
+.task-item {
+  display: flex;          
+  justify-content: space-between;
+  align-items: center;     
+  width: 40%;           
+  padding: 8px;
+  border-bottom: 1px solid #cc987a; 
+  margin-right:80% ;
+  justify-items: center;
+  text-align: center;
+}
+.cent {
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  
+}
+
+
+  
+
+   
+ 
+
+
+
+
+
